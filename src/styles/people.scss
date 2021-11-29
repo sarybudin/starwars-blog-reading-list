@@ -1,0 +1,12 @@
+.contenedor{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.boton{
+    border: 1px solid;
+}
+.boton-card {
+    display: flex;
+    justify-content: space-between;
+}
